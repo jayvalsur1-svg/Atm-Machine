@@ -98,19 +98,6 @@ This project helped improve understanding of:
 
 ---
 
-## Future Improvements
-
-* Exception Handling
-* Transaction History
-* Date and Time Logging
-* Account Locking After Multiple Failed PIN Attempts
-* Password Encryption
-* Database Integration (SQLite/MySQL)
-* GUI Version using Tkinter or PyQt
-* REST API Version using FastAPI
-
----
-
 ## Author
 
 Jay Valsur
